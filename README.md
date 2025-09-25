@@ -643,7 +643,7 @@
                 </div>
                 <div class="stat-card">
                     <div class="stat-icon">📚</div>
-                    <div class="stat-number">8</div>
+                    <div class="stat-number">5</div>
                     <div class="stat-label">KONSENTRASI KEAHLIAN</div>
                 </div>
                 <div class="stat-card">
